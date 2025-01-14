@@ -1,0 +1,14 @@
+{
+  "name": "dns-overlay",
+  "version": "1.0.0",
+  "description": "A custom DNS proxy server using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dns2": "^2.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
